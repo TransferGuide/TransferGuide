@@ -8,7 +8,7 @@ Hi，这里是美本转学手册，一本开放的、详尽的、不鸽子的（
 
 在阅读这份文档的过程中，我们将假设你对美本直申（即以高中生身份申请美国大学本科）有一定的了解。如果有任何写的不清楚的，还烦请您告知一下。
 
-这份文档是 _随时更新_ 的。欢迎大家来 [Github](https://github.com/TransferGuide/TransferGuide) 提出建议。
+这份文档已经完成，但是我们仍然会 _随时更新_ 可能存在的笔误或新的信息。欢迎大家来 [Github](https://github.com/TransferGuide/TransferGuide) 提出建议。
 
 ## 目录 <span id="0"></span>
 
